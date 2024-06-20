@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+playwright
+sqlite
+Flask==2.0.2
+beautifulsoup4==4.10.0
+selenium==4.0.0
+SQLAlchemy==1.4.31
+webdriver-manager==3.5.1
